@@ -1,0 +1,48 @@
+
+---Upload files---
+Redux file was not uploaded. Error: No file provided.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/personalblog/wordpress
+Data file = E:\xampp\htdocs\personalblog\wordpress/wp-content/uploads/2025/02/content.xml
+Widget file = E:\xampp\htdocs\personalblog\wordpress/wp-content/uploads/2025/02/widgets.wie
+Customizer file = E:\xampp\htdocs\personalblog\wordpress/wp-content/uploads/2025/02/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Adore Widget: Author Info Widget - About Myself - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Block - No Title - Imported
+Adore Widget: Social Widget - Follow Us On - Imported
+
+Footer Widget Area 1 : 
+
+Block - No Title - Imported
+Block - No Title - Imported
+
+Footer Widget Area 2 : 
+
+Block - No Title - Imported
+
+Footer Widget Area 3 : 
+
+Navigation Menu - Trending Posts - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
